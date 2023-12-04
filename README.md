@@ -1,2 +1,2 @@
 # Cubicl
-In colaboration with https://github.com/ShravanCool/
+In colaboration with Shravan AJ
